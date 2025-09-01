@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RushikeshGhevari) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rushikesh.ghevari.3?rdid=oQLTJfdcLosJG3zI&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19FeSMNhbW%2F)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushikesh.ghevari) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rghevari2000@gmail.com) 
 
